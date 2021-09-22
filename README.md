@@ -1,6 +1,7 @@
 # python-cpld-control
 
-This software is ported to python3 from [cpld-control](https://github.com/marex/cpld-control)
+This software is ported to python3 from [cpld-control](https://github.com/marex/cpld-control).
+
 This is used for reading/writing cpld equipped on R-Car Gen3 ULCB.
 
 # System requirement
